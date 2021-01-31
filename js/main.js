@@ -1,7 +1,7 @@
 //make header full screen
 // $(".header").innerHeight($(window).innerHeight() - $(".navbar").innerHeight());
 //increase numbers
-var speed = 20;
+var speed = 10;
 var c=0;
 /*A recursive function to increase the number.*/
 function incNbrRec(i, endNbr, elt) {
