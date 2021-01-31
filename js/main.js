@@ -1,5 +1,5 @@
 //make header full screen
-$(".header").innerHeight($(window).innerHeight() - $(".navbar").innerHeight());
+// $(".header").innerHeight($(window).innerHeight() - $(".navbar").innerHeight());
 //increase numbers
 var speed = 20;
 var c=0;
