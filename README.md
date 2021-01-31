@@ -1,3 +1,3 @@
 # **RunTime**
-![logo](https://runtimesy.netlify.app/apple-touch-icon.png)
-### check [demo](https://runtimesy.netlify.app/)
+![logo](https://runtimewebsite.netlify.app/apple-touch-icon.png)
+### check [demo](https://runtimewebsite.netlify.app)
