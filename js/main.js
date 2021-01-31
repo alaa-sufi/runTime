@@ -37,7 +37,7 @@ $(document).ready(function(){
    setTimeout(function(){
      $('.loading').fadeOut(100);
      $("body").css("overflow","scroll");
-    },100);
+    },1000);
    
 
 });
