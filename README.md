@@ -6,6 +6,8 @@
 #### Structure    98%
 #### speed       0.8s
 #### responsive  true
+#### favicon      all diveces
+
 
 
 
