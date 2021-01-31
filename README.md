@@ -8,7 +8,7 @@
 * Structure(98%)
 * speed(0.8s)
 * responsive
-* favicon( all) diveces)
+* favicon( all diveces)
 
 
 
