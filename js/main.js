@@ -16,7 +16,7 @@ function incNbrRec(i, endNbr, elt) {
 $(window).scroll(function () {
   if ($(window).scrollTop() > $(".increase").offset().top - ($(window).innerHeight()*0.75) && c == 0) {
     $(".increase .inc").each(function () {
-      incNbrRec(0, Number($(this).attr("data-val")), $(this));
+      incNbrRec(0, Number($(this).text()), $(this));
 
     });
     c = 1;

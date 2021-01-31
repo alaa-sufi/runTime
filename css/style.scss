@@ -239,8 +239,7 @@ a {
   .navbar-collapse {
     text-align: center;
   }
-  &:after {
-  }
+  
 }
 //end navbar
 
@@ -268,7 +267,10 @@ a {
     );
   background-position: right top, center center;
   background-repeat: repeat, repeat;
-
+  .header-text{
+    margin-top: auto;
+    margin-bottom: auto;
+  }
   
   .rp {
     line-height: 1.25rem;
@@ -354,7 +356,6 @@ a {
 //start projects
 .projects {
   position: relative;
-
   &:before {
     content: "";
     background-color: $grey;
@@ -415,6 +416,7 @@ a {
       img {
         // width: 20vw;
         height: auto;
+        border:0.2rem solid $green;
       }
     }
   }
