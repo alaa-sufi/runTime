@@ -30,7 +30,7 @@ $(".logo").attr("href",window.location.protocol + "//" + window.location.host)
 
 //loading
 var loading = $('.loading svg');
-$("body").css("overflow","hidden");
+$("body").css("overflow-y","hidden");
 loading.addClass('active');
 $(document).ready(function(){
   //$('.loading').hide();
