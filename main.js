@@ -21,6 +21,20 @@ $(window).scroll(function () {
     });
     c = 1;
   }
+  
+  //resize nav on scroll
+  if($(window).scrollTop() >100){
+    $(".navbar").css({
+      "padding-top":0,
+      "padding-bottom":0
+    });
+  }
+  else{
+   $(".navbar").css({
+      "padding-top":"0.5rem",
+      "padding-bottom":"0.5rem"
+    });
+  }
 });
 
 
