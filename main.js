@@ -36,7 +36,7 @@ $(document).ready(function(){
   //$('.loading').hide();
    setTimeout(function(){
      $('.loading').fadeOut(100);
-     $("body").css("overflow","scroll");
+     $("body").css("overflow-y","scroll");
     },1000);
    
 
