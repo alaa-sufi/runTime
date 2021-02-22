@@ -141,6 +141,7 @@ a {
   color: #fff !important ;
   background-color: $green;
   border: 2px solid $green;
+  display:none;
   &:hover,
   &:active {
     color: $green !important;
