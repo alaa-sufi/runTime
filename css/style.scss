@@ -248,6 +248,7 @@ a {
 .header {
   background-color: $blue;
   color: #fff;
+  margin-top:4rem;
   @include lg{
     background-image: url(../images/header2.png), url("../images/pattern.png"),
     linear-gradient(
@@ -500,7 +501,7 @@ a {
   background-color: $blue;
   height: 100%;
   width: 100%;
-  z-index: 999;
+  z-index: 9999;
   position: absolute; ;
   display: flex;
   align-items: center;
